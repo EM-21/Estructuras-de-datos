@@ -1,2 +1,2 @@
 # Estructuras-de-datos
-Creado para almacenar proyecto compartidos del curso.
+Creado para almacenar proyectos compartidos del curso.
