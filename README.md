@@ -1,2 +1,2 @@
 # Estructuras-de-datos
-Creado para almacenar proyectos compartidos del curso.
+Repositorio creado para almacenar archivos del ultimo proyecto del curso.
