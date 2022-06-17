@@ -5,14 +5,9 @@
 #include <ctype.h>
 
 #define CARROC 16.79
-#define CARROE 2
-#define BUSC 10.23
-#define BUSE 4
-#define BICIC 1
 #define BICIE 10
 #define BICI 5
-#define MOTOC 8.31
-#define MOTOE 3
+
 
 // 2 * (esfuerzo * distancia) > (carbono * distancia)
 //(2 * (BICIE * distancia)) > (CARROC * distancia)
