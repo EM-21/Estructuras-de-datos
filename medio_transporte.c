@@ -27,7 +27,7 @@ int medio(){
 	if(distancia<=5){
 		if((2 * (BICI * distancia)) < (CARROC * distancia)){
 			transporte = 1;
-			printf("salio en bibi");
+			printf("salio en bici");
 			return transporte;
 		
 		}
